@@ -1,2 +1,7 @@
 # SmartProctor-X-CortexShade
-In our project of smart proctorX for the hackathon of intellify my role was of cortexshade and responsibility included using microphone and camera of the pc on which the exam is given(such as jee) to identify the suspicious behaviour in audio and video encrypt that data and make it accessible to admin only using the password given when starting cod
+I was responsible for developing and managing the monitoring system for the smart proctoring solution. My key contributions included:
+Camera Integration & Management: Implemented and maintained camera access for admin monitoring, ensuring reliable video streaming during exams.
+Dual-Camera Setup: Designed a system supporting two camera inputs: 1. Primary camera (laptop webcam) 2. Secondary camera (mobile device) for additional viewing angles
+Behavior Detection: Worked on training and integrating mechanisms to detect suspicious behavior through video analysis.
+Audio Monitoring: Developed microphone-based detection to identify suspicious sounds, such as someone prompting answers during the exam.
+Security & Access Control: Ensured that all captured audio and video data is securely handled and accessible only to authorized administrators.
